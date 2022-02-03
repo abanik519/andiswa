@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/andiswa/static/css/main.27cd9284.css",
+    "main.js": "/andiswa/static/js/main.c17a6cdf.js",
+    "static/js/787.647a3513.chunk.js": "/andiswa/static/js/787.647a3513.chunk.js",
+    "static/media/Media2.mp3": "/andiswa/static/media/Media2.a6155f14bf2ac5b29184.mp3",
+    "static/media/Media1.mp3": "/andiswa/static/media/Media1.de4f53e3086e0e782165.mp3",
+    "static/media/Century Gothic.ttf": "/andiswa/static/media/Century Gothic.b194aa2bd524e2c973f7.ttf",
+    "static/media/04.jpg": "/andiswa/static/media/04.87749f92e13cfae9144a.jpg",
+    "static/media/08.jpg": "/andiswa/static/media/08.0e75a1ec74ccf88e8b84.jpg",
+    "static/media/05.jpg": "/andiswa/static/media/05.33567182b1e28002021e.jpg",
+    "static/media/06.jpg": "/andiswa/static/media/06.2e8361dd1d7bfd1fe4b7.jpg",
+    "static/media/02.jpg": "/andiswa/static/media/02.7012e528d9bd5238445f.jpg",
+    "static/media/07.jpg": "/andiswa/static/media/07.ac840a228a4fbdf9b66a.jpg",
+    "static/media/09.jpg": "/andiswa/static/media/09.e01e13e6d378e7d09c89.jpg",
+    "static/media/01.jpg": "/andiswa/static/media/01.b0a55b04186a85394fe6.jpg",
+    "static/media/Avatar.png": "/andiswa/static/media/Avatar.01842f6936c3117820fd.png",
+    "index.html": "/andiswa/index.html",
+    "main.27cd9284.css.map": "/andiswa/static/css/main.27cd9284.css.map",
+    "main.c17a6cdf.js.map": "/andiswa/static/js/main.c17a6cdf.js.map",
+    "787.647a3513.chunk.js.map": "/andiswa/static/js/787.647a3513.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27cd9284.css",
+    "static/js/main.c17a6cdf.js"
+  ]
+}
