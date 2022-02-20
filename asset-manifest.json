@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/andiswa/static/css/main.f1e300af.css",
-    "main.js": "/andiswa/static/js/main.1aae877e.js",
+    "main.css": "/andiswa/static/css/main.887868b2.css",
+    "main.js": "/andiswa/static/js/main.2e6a5b48.js",
     "static/js/787.647a3513.chunk.js": "/andiswa/static/js/787.647a3513.chunk.js",
     "static/media/end.mp3": "/andiswa/static/media/end.d3d25fac9208407bc47a.mp3",
     "static/media/Media1.mp3": "/andiswa/static/media/Media1.de4f53e3086e0e782165.mp3",
@@ -16,12 +16,12 @@
     "static/media/01.jpg": "/andiswa/static/media/01.b0a55b04186a85394fe6.jpg",
     "static/media/Avatar.png": "/andiswa/static/media/Avatar.01842f6936c3117820fd.png",
     "index.html": "/andiswa/index.html",
-    "main.f1e300af.css.map": "/andiswa/static/css/main.f1e300af.css.map",
-    "main.1aae877e.js.map": "/andiswa/static/js/main.1aae877e.js.map",
+    "main.887868b2.css.map": "/andiswa/static/css/main.887868b2.css.map",
+    "main.2e6a5b48.js.map": "/andiswa/static/js/main.2e6a5b48.js.map",
     "787.647a3513.chunk.js.map": "/andiswa/static/js/787.647a3513.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1e300af.css",
-    "static/js/main.1aae877e.js"
+    "static/css/main.887868b2.css",
+    "static/js/main.2e6a5b48.js"
   ]
 }
